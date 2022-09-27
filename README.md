@@ -1,6 +1,6 @@
-# PatternsUtils 正規劃驗證工具
+# PatternsUtils 正規化驗證工具
 
-包含常用正規劃檢測條件
+包含常用正規化檢測條件
 
  * isNull (空字串驗證）
  * isEmail 
